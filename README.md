@@ -8,6 +8,9 @@ All glyphs(*) hand-drawn from "The Skye Collection of the Best Reels and Straths
 - timeSig0-9 taken from "Beethoven", 2 and 4 are edited
 - restQuarter drawn from a 1931 publication of Paterson & Sons
 
+The glyhs set is not complete. However, the most distinguishing features are there...
+The remaining glyphs (at least in MuseScore) will fall back on "Bravura".
+
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 Copyright (c) 2026
