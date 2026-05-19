@@ -1,4 +1,4 @@
-Skye is a late 19th century font
+"Skye" is a late 19th century font
 
 All glyphs(*) hand-drawn from "The Skye Collection of the Best Reels and Strathspeys Extant". Edinburgh: Paterson & Sons, 1887.
 
