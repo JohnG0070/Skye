@@ -16,3 +16,6 @@ The remaining glyphs (at least in MuseScore) will fall back on "Bravura".
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
 Copyright (c) 2026
+
+Changelog:
+2026-06-04 Corrected dynamic symbols size in SkyeText
