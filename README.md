@@ -1,6 +1,6 @@
 <img width="4897" height="2797" alt="Image" src="https://github.com/user-attachments/assets/34668a8e-6d18-49fd-9947-5fc12267a3a0" />
 
-# "Skye" is a late 19th century font
+# "Skye": a late 19th century font
 
 All glyphs(*) hand-drawn from "The Skye Collection of the Best Reels and Strathspeys Extant". Edinburgh: Paterson & Sons, 1887.
 
